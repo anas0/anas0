@@ -70,10 +70,6 @@
 
 ## My Stats 
 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anas0&show_icons=true&hide_border=true&theme=tokyonight)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anas0&theme=tokyonight)  
  
 
