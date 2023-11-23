@@ -70,13 +70,12 @@
 
 ## My Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas0&hide_border=true&theme=tokyonight)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anas0&show_icons=true&hide_border=true&theme=tokyonight)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anas0&theme=tokyonight)  
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anas0&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
 
 
